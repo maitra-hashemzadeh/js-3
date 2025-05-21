@@ -52,8 +52,8 @@ C: OK Good  ✅
 
 6. Which parameter of the executor serves to 'fulfill' its respective promise?
 
-A. First parameter  ✅ 
-B: Second parameter
+A. First parameter  
+B: Second parameter ✅ 
 =========================================================
 
 7. Once p is fulfilled by calling resolve() in line 3, what value is stored in p's promise state?
